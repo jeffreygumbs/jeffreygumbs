@@ -11,7 +11,7 @@ I am Full Stack Developer with Graphic Design Skills and Technical computer Skil
 * 🖥️  See my portfolio at [My Portfolio](http://jeffreygumbs.io)
 * ✉️  You can contact me at [jeffreygumbs@gmil.com](mailto:jeffreygumbs@gmil.com)
 * 🚀  I'm currently working on [Secure Authorities](http://secureauthorities.com)
-* 🧠  I'm learning Next.js 13 with the App Directory and Prisma
+* 🧠  I'm learning Turborepo and how it works with React Native, Nextjs and Tauri
 * 🤝  I'm open to collaborating on Fun Projects
 
 ### Skills
