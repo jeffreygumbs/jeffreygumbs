@@ -8,7 +8,7 @@ Developer, Entrepreneur with a little Design Skills 🤓
 I am Full Stack Developer with Graphic Design Skills and Technical computer Skills for the past 7 years of my career, which allows me to create particular designs on web pages that meet the requirements of employers and clients. Turning their vision into an actual, functional website, but also secure with my Cyber Security background of 11 years.
 
 * 🌍  I'm based in Edmonton, Alberta, Canada
-* 🖥️  See my portfolio at [My Portfolio](http://jeffreygumbs.io)
+* 🖥️  See my portfolio at [My Portfolio](http://jeffreygumbs.com)
 * ✉️  You can contact me at [jeffreygumbs@gmil.com](mailto:jeffreygumbs@gmil.com)
 * 🚀  I'm currently working on [Secure Authorities](http://secureauthorities.com)
 * 🧠  I'm learning Turborepo and how it works with React Native, Nextjs and Tauri
