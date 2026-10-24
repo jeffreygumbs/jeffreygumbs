@@ -10,7 +10,7 @@ With 7 years of full-stack development experience and an 11-year background in c
 * 🌍  I'm based in Edmonton, Alberta, Canada
 * 🖥️  See my portfolio at [jeffreygumbs.com](http://jeffreygumbs.com)
 * ✉️  You can contact me at [jeffreygumbs@gmail.com](mailto:jeffreygumbs@gmail.com)
-* 🚀  I'm currently working on [Secure Authorities](https://secureauthorities.com)
+* 🚀  I'm currently working on [Secure Authorities](https://www.secureauthorities.com/)
 * 🧠  I'm learning Rust and its applications across web, hardware, and AI
 * 🤝  I'm open to collaborating on interesting projects
 
