@@ -1,18 +1,18 @@
-![](https://github.com/jeffreygumbs/jeffreygumbs/blob/main/test%20banner%204.png?raw=true)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeffrey A Gumbs
+![](https://github.com/jeffreygumbs/jeffreygumbs/blob/main/bannerpng?raw=true)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jeffrey A. Gumbs
 =======================================================================================================================================
 
-Developer, Entrepreneur with a little Design Skills 🤓
-------------------------------------------------------
+Full-Stack Developer | Entrepreneur | Security-Minded Engineer
+--------------------------------------------------------------
 
-I am Full Stack Developer with Graphic Design Skills and Technical computer Skills for the past 7 years of my career, which allows me to create particular designs on web pages that meet the requirements of employers and clients. Turning their vision into an actual, functional website, but also secure with my Cyber Security background of 11 years.
+With 7 years of full-stack development experience and an 11-year background in cybersecurity, I turn client visions into secure, high-performing, and visually polished web applications. My blend of deep technical expertise and design sensibility ensures every project meets the highest standards of performance and security.
 
-* 🌍  I'm based in Edmonton, Alberta, Canada
-* 🖥️  See my portfolio at [My Portfolio](http://jeffreygumbs.com)
-* ✉️  You can contact me at [jeffreygumbs@gmil.com](mailto:jeffreygumbs@gmil.com)
-* 🚀  I'm currently working on [Secure Authorities](http://secureauthorities.com)
-* 🧠  I'm learning Turborepo and how it works with React Native, Nextjs and Tauri
-* 🤝  I'm open to collaborating on Fun Projects
+* 🌍  I'm based in Edmonton, Alberta, Canada
+* 🖥️  See my portfolio at [jeffreygumbs.com](http://jeffreygumbs.com)
+* ✉️  You can contact me at [jeffreygumbs@gmail.com](mailto:jeffreygumbs@gmail.com)
+* 🚀  I'm currently working on [Secure Authorities](https://secureauthorities.com)
+* 🧠  I'm learning Rust and its applications across web, hardware, and AI
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
@@ -38,4 +38,12 @@ I am Full Stack Developer with Graphic Design Skills and Technical computer Skil
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" /></a>
 </p>
+
+### GitHub Stats
+
+<a href="https://github.com/jeffreygumbs"><img src="https://github-readme-stats.vercel.app/api?username=jeffreygumbs&show_icons=true&hide=contribs" alt="Jeffrey's GitHub stats" /></a>
+<a href="https://github.com/jeffreygumbs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreygumbs&layout=compact" alt="Jeffrey's top languages" /></a>
